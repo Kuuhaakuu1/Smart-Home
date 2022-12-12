@@ -72,6 +72,20 @@ namespace SmartHome
             T t = (T)XamlReader.Load(xmlReader);
             return t;
         }
+        private void btnProfil_Click(object sender, RoutedEventArgs e)
+        {
+            profilPage profil = new profilPage();
+            profil.Show();
+
+        }
+
+        //public static Canvas CloneXaml(Canvas source)
+        //{
+        //    string xaml = XamlWriter.Save(source);
+        //    StringReader sr = new StringReader(xaml);
+        //    XmlReader xr = XmlReader.Create(sr);
+        //    return (Canvas)XamlReader.Load(xr);
+        //}
         public Cursor ConvertToCursor(UIElement control, Point hotSpot)
         {
             if (control is null)
@@ -91,6 +105,7 @@ namespace SmartHome
             PngBitmapEncoder png = new PngBitmapEncoder();
             png.Frames.Add(BitmapFrame.Create(rtb));
             png.Save(pngStream);
+       
 
             // write cursor header info
             var cursorStream = new MemoryStream();
