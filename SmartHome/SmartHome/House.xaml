@@ -15,7 +15,7 @@
                 <Setter.Value>
                     <ControlTemplate TargetType="CheckBox">
                         <StackPanel Orientation="Horizontal">
-                            <Grid >
+                            <Grid>
                                 <Border Width="45" Height="20" Background="LightGray" CornerRadius="10" Margin="5,0"></Border>
                                 <Border x:Name="button" Height="25" Width="25" CornerRadius="12.5" HorizontalAlignment="Left"  ></Border>
                             </Grid>
@@ -134,7 +134,7 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid>
-        <StackPanel Orientation="Horizontal">
+        <StackPanel x:Name="MainPanel" Orientation="Horizontal">
             <Border Margin="10 20 10 0" Width="60" Height="680" VerticalAlignment="top" HorizontalAlignment="Left" CornerRadius="20 20 20 20 " Background="#100E17" >
                 <Grid>
 
@@ -159,8 +159,8 @@
                 <Grid>
                     <ScrollViewer Grid.Row="1">
                         <Grid  ClipToBounds="True">
-                            <Border x:Name="ToiletRoom"  Width="190" Height="190" Background="White"  CornerRadius="20" Margin="30,32,18,463">
-                                <Grid MouseMove="ToiletRoom_MouseMove" AllowDrop="False" >
+                            <Border x:Name="ToiletRoom"  MouseMove="ToiletRoom_MouseMove" Width="190" Height="190" Background="White"  CornerRadius="20" Margin="30,32,18,463" GiveFeedback="ToiletRoom_GiveFeedback">
+                                <Grid  AllowDrop="False" >
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="150*"/>
                                         <ColumnDefinition Width="41*"/>
@@ -205,17 +205,16 @@
 
                     </ScrollViewer>
                 </Grid>
-
-
-
-
-
-
             </Border>
-            <Border    Margin="10 20 10 0" Width="900" Height="680" VerticalAlignment="top" HorizontalAlignment="Left" CornerRadius="20 20 20 20 " Background="#100E17" >
-                <Grid Background="Transparent" Width="805" Height="585" x:Name="borderTest" Drop="Border_Drop" AllowDrop="True" ></Grid>
+            <Border Margin="10 20 10 0" Width="900" Height="680" VerticalAlignment="top" HorizontalAlignment="Left" CornerRadius="20 20 20 20 " Background="#100E17" >
+                <Canvas Background="Transparent" Width="900" Height="680" x:Name="borderTest" Drop="Border_Drop" AllowDrop="True" ></Canvas>
                 <!--<Canvas x:Name="MainCanvas" HorizontalAlignment="Center" Height="680" VerticalAlignment="Center" Width="900" Drop="MainCanvas_Drop" AllowDrop="True" Background="Transparent"/>-->
             </Border>
+
         </StackPanel>
+        <Canvas x:Name="RootCanvas" Visibility="Hidden" >
+            <Border Name="customPointer" Width="190" Height="190" Background="White" CornerRadius="20" Canvas.Left="591" Canvas.Top="121" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </Canvas>
     </Grid>
 </Window>
+
