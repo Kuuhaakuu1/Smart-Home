@@ -216,3 +216,8 @@ SmartHome/.vs/ProjectEvaluation/smarthome.metadata.v2
 SmartHome/.vs/ProjectEvaluation/smarthome.projects.v2
 SmartHome/.vs/SmartHome/DesignTimeBuild/.dtbcache.v2
 SmartHome/.vs/SmartHome/v17/.suo
+*.g.i.cs
+*.cache
+*.editorconfig
+*.v2
+SmartHome/.vs/SmartHome/v17/.suo

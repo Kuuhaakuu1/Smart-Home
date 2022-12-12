@@ -138,3 +138,37 @@ D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\
 D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.pdb
 D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.genruntimeconfig.cache
 D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\ref\SmartHome.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.exe
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.deps.json
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.runtimeconfig.json
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.pdb
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\House.g.cs
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome_MarkupCompile.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome_MarkupCompile.lref
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\App.baml
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\House.baml
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.g.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.AssemblyInfo.cs
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.CopyComplete
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\refint\SmartHome.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.pdb
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.genruntimeconfig.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\ref\SmartHome.dll
