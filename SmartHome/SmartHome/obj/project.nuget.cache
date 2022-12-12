@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GKZ7B6GOWGEamKTbmb+FIRM0vA/6rru9yooLCht9o0fOax6TjZOBZT2S8D+jLpo0P5yE7qaPiQhnCBZ91tkKLA==",
+  "dgSpecHash": "0SGcTfd8EH5mPozrY9DkGpYt3MGi8ZyjXHFFPsCnsf2oIdDIjxqWbSAK4HEjJyzA+r5GuiD6oWxU89dpGmqHig==",
   "success": true,
-  "projectFilePath": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart Home\\SmartHome\\SmartHome\\SmartHome.csproj",
+  "projectFilePath": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart-Home\\SmartHome\\SmartHome\\SmartHome.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

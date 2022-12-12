@@ -927,11 +927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart Home\\SmartHome\\SmartHome\\SmartHome.csproj",
+      "projectUniqueName": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart-Home\\SmartHome\\SmartHome\\SmartHome.csproj",
       "projectName": "SmartHome",
-      "projectPath": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart Home\\SmartHome\\SmartHome\\SmartHome.csproj",
+      "projectPath": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart-Home\\SmartHome\\SmartHome\\SmartHome.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart Home\\SmartHome\\SmartHome\\obj\\",
+      "outputPath": "D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart-Home\\SmartHome\\SmartHome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
