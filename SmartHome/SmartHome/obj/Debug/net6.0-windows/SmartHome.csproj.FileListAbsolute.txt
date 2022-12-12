@@ -66,3 +66,37 @@ D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\
 D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.pdb
 D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.genruntimeconfig.cache
 D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\ref\SmartHome.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.exe
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.deps.json
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.runtimeconfig.json
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.pdb
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.AssemblyReference.cache
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\MainWindow.baml
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\House.g.cs
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\App.g.cs
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome_MarkupCompile.cache
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome_MarkupCompile.lref
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\App.baml
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\House.baml
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.g.resources
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.AssemblyInfoInputs.cache
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.AssemblyInfo.cs
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.CoreCompileInputs.cache
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.CopyComplete
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\refint\SmartHome.dll
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.pdb
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.genruntimeconfig.cache
+D:\EMSI\4IIR\S7\Dot Net\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\ref\SmartHome.dll
