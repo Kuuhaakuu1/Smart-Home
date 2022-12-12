@@ -210,3 +210,4 @@ SmartHome/.vs/SmartHome/FileContentIndex/2de77223-f7ea-487e-a463-dd2d0fcb552a.vs
 SmartHome/SmartHome/obj/Debug/net6.0-windows/App.g.i.cs
 SmartHome/SmartHome/obj/Debug/net6.0-windows/MainWindow.g.i.cs
 SmartHome/SmartHome/obj/SmartHome.csproj.nuget.dgspec.json
+*.v2
