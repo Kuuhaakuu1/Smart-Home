@@ -90,6 +90,13 @@ namespace SmartHome
             return t;
         }
 
+        private void btnProfil_Click(object sender, RoutedEventArgs e)
+        {
+            profilPage profil = new profilPage();
+            profil.Show();
+
+        }
+
         //public static Canvas CloneXaml(Canvas source)
         //{
         //    string xaml = XamlWriter.Save(source);

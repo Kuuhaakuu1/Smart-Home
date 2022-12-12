@@ -141,6 +141,9 @@
                     <Button Margin="5 15" Style="{StaticResource MaterialDesignFloatingActionButton}" VerticalAlignment="Top" Background="{x:Null}" ToolTip="Home" x:Name="btnHome" Click="btnHome_Click" Height="40" Width="40">
                         <materialDesign:PackIcon Kind="Home" Width="25" Height="25" Foreground="AntiqueWhite" />
                     </Button>
+                    <Button Margin="10,87,10,0" Style="{StaticResource MaterialDesignFloatingActionButton}" VerticalAlignment="Top" Background="{x:Null}" ToolTip="Home" x:Name="btnProfil" Click="btnProfil_Click" Height="40" Width="40">
+                        <materialDesign:PackIcon Kind="Settings" Width="25" Height="25" Foreground="AntiqueWhite" />
+                    </Button>
 
 
                     <Button Margin="5 15" Style="{StaticResource MaterialDesignFloatingActionButton}" VerticalAlignment="bottom" Background="{x:Null}" ToolTip="Logout" x:Name="Logout" Click="Logout_Click" Height="40" Width="40">
@@ -165,12 +168,38 @@
                                     <Label  Content="Toilet" FontSize="30" Grid.ColumnSpan="2"></Label>
                                     <CheckBox Margin="130,0,0,152" Grid.ColumnSpan="2"/>
                                     <Grid.Background>
-                                        <ImageBrush ImageSource="D:\\EMSI\\4IIR\\S7\\Dot Net\\Smart Home\\SmartHome\\SmartHome\\Images\\ICON4801.png"/>
+                                        <ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\toilet room cartoon.webp"/>
                                     </Grid.Background>
                                 </Grid>
                             </Border>
-                            <Border Width="190" Height="190" Background="White" CornerRadius="20" Margin="30,245,18,250"></Border>
-                            <Border Width="190" Height="190" Background="White" CornerRadius="20" Margin="30,456,18,39"></Border>
+
+                            <Border x:Name="KitchenRoom"  Width="190" Height="190" Background="White"  CornerRadius="20" Margin="30,245,18,250">
+                                <Grid MouseMove="ToiletRoom_MouseMove" AllowDrop="False" >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="150*"/>
+                                        <ColumnDefinition Width="41*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label  Content="Kitchen" FontSize="30" Grid.ColumnSpan="2"></Label>
+                                    <CheckBox Margin="130,0,0,152" Grid.ColumnSpan="2"/>
+                                    <Grid.Background>
+                                        <ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\kitchen cartoon1.jpg"/>
+                                    </Grid.Background>
+                                </Grid>
+                            </Border>
+
+                            <Border x:Name="LivingRoom"  Width="190" Height="190" Background="White"  CornerRadius="20" Margin="30,456,18,39">
+                                <Grid MouseMove="ToiletRoom_MouseMove" AllowDrop="False" >
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="150*"/>
+                                        <ColumnDefinition Width="41*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label  Content="Living" FontSize="30" Grid.ColumnSpan="2"></Label>
+                                    <CheckBox Margin="130,0,0,152" Grid.ColumnSpan="2"/>
+                                    <Grid.Background>
+                                        <ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\livingroom cartoon.jpg"/>
+                                    </Grid.Background>
+                                </Grid>
+                            </Border>
 
                         </Grid>
 

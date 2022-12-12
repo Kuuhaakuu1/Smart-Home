@@ -66,3 +66,39 @@ D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\
 D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.pdb
 D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.genruntimeconfig.cache
 D:\EMSI\4IIR\S7\Dot Net\Smart Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\ref\SmartHome.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.AssemblyReference.cache
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\profilPage.baml
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\House.g.cs
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\profilPage.g.cs
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome_MarkupCompile.cache
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome_MarkupCompile.lref
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\refint\SmartHome.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.pdb
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.exe
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.deps.json
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.runtimeconfig.json
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\SmartHome.pdb
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\App.baml
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\House.baml
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.g.resources
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.AssemblyInfoInputs.cache
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.AssemblyInfo.cs
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.CoreCompileInputs.cache
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.csproj.CopyComplete
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\SmartHome.genruntimeconfig.cache
+C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\obj\Debug\net6.0-windows\ref\SmartHome.dll

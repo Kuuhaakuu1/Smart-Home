@@ -27,11 +27,11 @@
         <Grid Height="390" Width="800">
                 <StackPanel Orientation="Horizontal">
                     <StackPanel Width="350">
-                        <Image Source="D:/EMSI/4IIR/S7/Dot Net/Smart Home/SmartHome/SmartHome/Images/ICON4801.png" Width="300" VerticalAlignment="Top" Margin="0 50" Stretch="Fill"/>
+                        <Image Source="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\ICON4801.png" Width="300" VerticalAlignment="Top" Margin="0 50" Stretch="Fill"/>
                     </StackPanel>
                     <StackPanel Width="350">
                         <StackPanel Margin="20 40">
-                            <TextBlock  Text="User Login" Margin="20" Foreground="White" TextAlignment="Center" FontSize="38" FontFamily="C:/Users/acer/OneDrive/Bureau/Smart Home/SmartHome/SmartHome/FontFamily/#Great Vibes" ></TextBlock>
+                            <TextBlock  Text="User Login" Margin="20" Foreground="White" TextAlignment="Center" FontSize="38" FontFamily="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\FontFamily\#Great Vibes" ></TextBlock>
                             <StackPanel Orientation="Horizontal" Margin="10">
                                 <materialDesign:PackIcon Kind="User" Width="25" Height="25" Foreground="white" />
                                 <TextBox  x:Name="TxtUsername" materialDesign:HintAssist.Hint="Enter Username" Margin="10 0"   Background="Transparent" Padding="3"  Width="250" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" Foreground="White"/>
