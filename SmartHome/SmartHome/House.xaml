@@ -167,9 +167,9 @@
                                     </Grid.ColumnDefinitions>
                                     <Label  Content="Toilet" FontSize="30" Grid.ColumnSpan="2"></Label>
                                     <CheckBox Margin="130,0,0,152" Grid.ColumnSpan="2"/>
-                                    <Grid.Background>
-                                        <ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\toilet room cartoon.webp"/>
-                                    </Grid.Background>
+                                    <!--<Grid.Background>-->
+                                        <!--<ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\toilet room cartoon.webp"/>-->
+                                    <!--</Grid.Background>-->
                                 </Grid>
                             </Border>
 
@@ -181,9 +181,9 @@
                                     </Grid.ColumnDefinitions>
                                     <Label  Content="Kitchen" FontSize="30" Grid.ColumnSpan="2"></Label>
                                     <CheckBox Margin="130,0,0,152" Grid.ColumnSpan="2"/>
-                                    <Grid.Background>
-                                        <ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\kitchen cartoon1.jpg"/>
-                                    </Grid.Background>
+                                    <!--<Grid.Background>-->
+                                        <!--<ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\kitchen cartoon1.jpg"/>-->
+                                    <!--</Grid.Background>-->
                                 </Grid>
                             </Border>
 
@@ -195,9 +195,9 @@
                                     </Grid.ColumnDefinitions>
                                     <Label  Content="Living" FontSize="30" Grid.ColumnSpan="2"></Label>
                                     <CheckBox Margin="130,0,0,152" Grid.ColumnSpan="2"/>
-                                    <Grid.Background>
-                                        <ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\livingroom cartoon.jpg"/>
-                                    </Grid.Background>
+                                    <!--<Grid.Background>-->
+                                        <!--<ImageBrush ImageSource="C:\Users\elgbouri saad\Documents\GitHub\Smart-Home\SmartHome\SmartHome\Images\pics smart home\livingroom cartoon.jpg"/>-->
+                                    <!--</Grid.Background>-->
                                 </Grid>
                             </Border>
 
